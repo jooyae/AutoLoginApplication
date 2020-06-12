@@ -20,4 +20,4 @@
         }  
     }  }
 ## ScreenShots :camera:
-![autologin](https://user-images.githubusercontent.com/58849278/84543453-5e4a7a80-ad36-11ea-9489-a3472dbe9de3.gif)
+![untitled](https://user-images.githubusercontent.com/58849278/84544023-7242ac00-ad37-11ea-9c67-d285e4aad221.gif)
