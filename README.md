@@ -20,4 +20,4 @@
         }  
     }  }
 ## ScreenShots :camera:
-![untitled](https://user-images.githubusercontent.com/58849278/84544023-7242ac00-ad37-11ea-9c67-d285e4aad221.gif)
+<img src = "https://user-images.githubusercontent.com/58849278/84544023-7242ac00-ad37-11ea-9c67-d285e4aad221.gif" width = "50%">
